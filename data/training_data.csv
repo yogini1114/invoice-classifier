@@ -1,0 +1,236 @@
+text,category
+Blue Dart courier charges for warehouse delivery,Logistics
+DHL shipment fee for customer order dispatch,Logistics
+FedEx freight invoice for bulk order,Logistics
+Delhivery last mile delivery charges,Logistics
+Ecom Express reverse logistics fee,Logistics
+Road transport charges for raw material,Logistics
+Cargo handling and port clearance fees,Logistics
+Air freight cost for urgent shipment,Logistics
+Customs duty and clearance charges,Logistics
+Packaging and dispatch fee for orders,Logistics
+Shiprocket delivery charges for ecommerce orders,Logistics
+DTDC express parcel service invoice,Logistics
+XpressBees shipment fees for returns,Logistics
+Shadowfax last mile delivery fee,Logistics
+Ekart logistics invoice for orders,Logistics
+Trucking charges for inter-city delivery,Logistics
+Container shipping charges sea freight,Logistics
+Warehouse storage and handling charges,Logistics
+Loading unloading labor charges at dock,Logistics
+Freight forwarding charges international,Logistics
+Courier charges for document delivery,Logistics
+Express delivery surcharge for urgent order,Logistics
+Last mile delivery partner payout,Logistics
+Return shipment processing fee,Logistics
+Third party logistics 3PL monthly invoice,Logistics
+Transit insurance for goods shipment,Logistics
+Packing material charges for dispatch,Logistics
+Delivery vehicle fuel reimbursement,Logistics
+Porter delivery charges for local goods,Logistics
+Gati courier invoice for shipment,Logistics
+DTDC courier charges express,Logistics
+First Flight courier service charges,Logistics
+SafeExpress cargo delivery fee,Logistics
+Rivigo fleet logistics invoice,Logistics
+Blackbuck trucking platform charges,Logistics
+Eicher truck freight charges,Logistics
+India Post speed post charges,Logistics
+Navata road transport charges,Logistics
+Professional courier charges office,Logistics
+Road permit and toll charges for truck,Logistics
+Staples printer paper reams x10,Office Supplies
+Pilot ballpoint pens pack of 20,Office Supplies
+HP toner cartridge for laserjet printer,Office Supplies
+Whiteboard markers and erasers,Office Supplies
+A4 file folders and binding clips,Office Supplies
+Sticky notes and desk organizer set,Office Supplies
+Notebook and spiral diary set,Office Supplies
+Scotch tape and glue sticks,Office Supplies
+Lamination pouches and scissors,Office Supplies
+Pen drives and USB cables for office,Office Supplies
+Whiteboard and marker stand purchase,Office Supplies
+Ink cartridge for inkjet printer,Office Supplies
+Stapler and hole punch set,Office Supplies
+Ring binders and document sleeves,Office Supplies
+Desk lamp and extension cord,Office Supplies
+Printer paper box for office,Office Supplies
+Correction fluid and pen refills,Office Supplies
+Envelopes and courier bags pack,Office Supplies
+Business card holder and desk tray,Office Supplies
+Highlighter pens set of 10,Office Supplies
+Calculator for accounts department,Office Supplies
+Shredder bags and maintenance kit,Office Supplies
+Paper clips and binder clips box,Office Supplies
+Scissors and letter opener set,Office Supplies
+Stamp pad and rubber stamp,Office Supplies
+Visiting card printing charges,Office Supplies
+Letterhead printing invoice,Office Supplies
+ID card and lanyard printing,Office Supplies
+Reynolds gel pen set for office,Office Supplies
+Classmate notebook pack of 6,Office Supplies
+Camlin permanent markers set,Office Supplies
+Faber castell pencils box,Office Supplies
+Lexi ballpen carton purchase,Office Supplies
+Cello tape dispenser and rolls,Office Supplies
+Nataraj pencil box for office,Office Supplies
+Luxor whiteboard marker set,Office Supplies
+Laptop bags and cable management kit,Office Supplies
+Tissue paper boxes for office,Office Supplies
+Dustbin and waste bags office,Office Supplies
+Whiteboard duster replacement,Office Supplies
+Punching machine for office,Office Supplies
+AWS monthly cloud hosting bill,Cloud/Software
+Google Workspace annual subscription,Cloud/Software
+Zoom video conferencing license,Cloud/Software
+GitHub Enterprise plan renewal,Cloud/Software
+Slack team plan monthly invoice,Cloud/Software
+Adobe Creative Cloud subscription,Cloud/Software
+Jira Software license for dev team,Cloud/Software
+Azure compute credits invoice,Cloud/Software
+Salesforce CRM monthly billing,Cloud/Software
+Figma professional plan subscription,Cloud/Software
+Heroku dyno monthly charge,Cloud/Software
+Notion team subscription renewal,Cloud/Software
+Postman API platform license,Cloud/Software
+Datadog monitoring plan invoice,Cloud/Software
+Twilio SMS service credits,Cloud/Software
+SendGrid email API subscription,Cloud/Software
+DigitalOcean droplet billing,Cloud/Software
+Microsoft 365 business plan,Cloud/Software
+Dropbox business storage plan,Cloud/Software
+HubSpot CRM subscription,Cloud/Software
+Trello premium plan invoice,Cloud/Software
+Canva pro annual subscription,Cloud/Software
+Netlify hosting plan monthly,Cloud/Software
+MongoDB Atlas cloud database,Cloud/Software
+New Relic observability platform,Cloud/Software
+PagerDuty incident management plan,Cloud/Software
+Zendesk support software license,Cloud/Software
+QuickBooks accounting software subscription,Cloud/Software
+Shopify monthly plan invoice,Cloud/Software
+Cloudflare pro plan monthly,Cloud/Software
+Zoho CRM annual subscription,Cloud/Software
+Freshdesk support software plan,Cloud/Software
+Razorpay payment gateway charges,Cloud/Software
+Tally ERP software license renewal,Cloud/Software
+Annual antivirus software license,Cloud/Software
+Conference call platform subscription,Cloud/Software
+AWS EC2 instance monthly bill,Cloud/Software
+Google Cloud Platform credits,Cloud/Software
+Snowflake data warehouse billing,Cloud/Software
+Tableau software license annual,Cloud/Software
+Power BI premium subscription,Cloud/Software
+Electricity bill for office premises,Utilities
+Water supply charges for factory unit,Utilities
+Monthly internet connection bill,Utilities
+Broadband and landline charges,Utilities
+Generator diesel fuel for backup power,Utilities
+Municipal corporation water tax,Utilities
+Gas pipeline charges for kitchen facility,Utilities
+Air conditioning maintenance and electricity,Utilities
+Office building electricity meter charges,Utilities
+Sewage and waste management fee,Utilities
+Reliance Jio monthly internet plan,Utilities
+Tata Power electricity bill Q3,Utilities
+BSNL broadband quarterly bill,Utilities
+Electricity bill September office,Utilities
+Water tanker charges for office building,Utilities
+Monthly fiber broadband invoice,Utilities
+Generator AMC annual maintenance,Utilities
+LPG cylinder for office pantry,Utilities
+Telephone line rental charges monthly,Utilities
+Power backup UPS maintenance charge,Utilities
+Solar panel maintenance fee,Utilities
+Electricity surcharge peak hours,Utilities
+Water purifier rental and maintenance,Utilities
+Internet leased line monthly charges,Utilities
+Diesel generator fuel refill charges,Utilities
+MSEB electricity bill factory,Utilities
+BESCOM power bill Bangalore office,Utilities
+TNEB electricity charges Chennai,Utilities
+Airtel broadband monthly bill,Utilities
+ACT fibernet broadband invoice,Utilities
+BWSSB water charges Bangalore,Utilities
+Mahanagar Gas bill Mumbai office,Utilities
+Adani Electricity bill office,Utilities
+Excitel broadband monthly invoice,Utilities
+Hathway cable internet charges,Utilities
+Flight tickets Mumbai to Delhi business trip,Travel
+Hotel accommodation for client meeting,Travel
+Uber rides for field sales team,Travel
+Train tickets for outstation visit,Travel
+Airport cab and parking charges,Travel
+Per diem allowance for employee travel,Travel
+Visa and travel insurance for international trip,Travel
+Fuel reimbursement for office vehicle,Travel
+Meal expenses during business travel,Travel
+Conference registration and travel cost,Travel
+Flight booking Bangalore Delhi return,Travel
+Ola cab reimbursement for field visit,Travel
+Train fare for outstation audit,Travel
+Hotel invoice for 3 nights business trip,Travel
+Toll and fuel expenses for company car,Travel
+International travel insurance premium,Travel
+Bus tickets for staff outstation travel,Travel
+Car rental charges for client visit,Travel
+Travel agent booking fee,Travel
+Airport lounge access charges,Travel
+Employee relocation travel expenses,Travel
+Sales team travel reimbursement monthly,Travel
+Taxi charges for airport pickup drop,Travel
+Foreign currency exchange charges,Travel
+Team offsite travel and stay expenses,Travel
+IndiGo flight ticket sales conference,Travel
+Air India business travel booking,Travel
+SpiceJet ticket reimbursement,Travel
+MakeMyTrip hotel booking invoice,Travel
+Goibibo flight and hotel package,Travel
+IRCTC train ticket purchase,Travel
+OYO rooms business booking,Travel
+Treebo hotel invoice corporate,Travel
+Team outing food and travel expenses,Travel
+Meal bills during employee travel,Travel
+Rapido bike taxi reimbursement,Travel
+Meru cab service invoice,Travel
+Raw material procurement steel sheets,Inventory
+Finished goods stock replenishment order,Inventory
+Spare parts purchase for machines,Inventory
+Electronic components bulk order,Inventory
+Fabric rolls and thread purchase,Inventory
+Packaging material stock purchase,Inventory
+Chemical compounds for manufacturing,Inventory
+Hardware tools and equipment purchase,Inventory
+Plastic granules for production unit,Inventory
+Purchase of goods for retail resale,Inventory
+Steel rods and bolts purchase,Inventory
+Packaging tape and bubble wrap bulk,Inventory
+Plastic containers for storage,Inventory
+Electronic sensors batch purchase,Inventory
+Cotton fabric rolls for production,Inventory
+Spare bearing and machine parts,Inventory
+Wood planks and plywood purchase,Inventory
+Paint and coating materials stock,Inventory
+Rubber gaskets and seals purchase,Inventory
+Adhesive and bonding material stock,Inventory
+Glass sheets for manufacturing,Inventory
+Copper wire bulk purchase,Inventory
+Aluminum sheets fabrication stock,Inventory
+Battery cells for product assembly,Inventory
+Circuit boards component purchase,Inventory
+Raw chemicals for processing unit,Inventory
+Ink and toner stock replenishment,Inventory
+Spare motor and pump parts,Inventory
+Nuts bolts and fasteners stock,Inventory
+Safety equipment helmets and gloves stock,Inventory
+Warehouse rack and storage units,Inventory
+JSW steel raw material purchase,Inventory
+Tata steel sheets procurement,Inventory
+Asian Paints industrial coating,Inventory
+Pidilite adhesive bulk order,Inventory
+Finolex cables purchase,Inventory
+Havells switches and sockets stock,Inventory
+Bosch spare parts purchase,Inventory
+SKF bearing stock replenishment,Inventory
+Hindustan Zinc raw material,Inventory
+Vedanta aluminum ingots purchase,Inventory
