@@ -8,11 +8,11 @@ You send it a line of invoice text like "AWS monthly cloud hosting bill" and it 
 
 Categories:
 
-Logistics
-Office Supplies
-Cloud/Software
-Utilities
-Travel
+Logistics,
+Office Supplies,
+Cloud/Software,
+Utilities,
+Travel and
 Inventory
 
 Tech used:
