@@ -1,8 +1,3 @@
-"""
-test_api.py - Unit tests for the Invoice Classifier API
-Run with: pytest tests/
-"""
-
 import sys
 import os
 import pytest
@@ -14,8 +9,6 @@ from app.main import app
 
 client = TestClient(app)
 
-
-# ── Basic API tests ──────────────────────────────────────────────────────────
 
 def test_root_endpoint():
     response = client.get("/")
@@ -71,8 +64,6 @@ def test_predict_inventory():
     data = response.json()
     assert data["category"] == "Inventory"
 
-
-# ── Validation tests ─────────────────────────────────────────────────────────
 
 def test_empty_text_returns_422():
     response = client.post("/predict", json={"text": ""})
