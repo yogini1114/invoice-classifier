@@ -1,7 +1,3 @@
-"""
-predictor.py - Loads the trained model and exposes a predict function.
-"""
-
 import os
 import re
 import pickle
@@ -32,10 +28,7 @@ def _preprocess(text: str) -> str:
 
 
 def predict(text: str) -> Tuple[str, float]:
-    """
-    Returns (category, confidence_score).
-    confidence_score is the max softmax probability from LR.
-    """
+
     pipeline = _load_model()
     cleaned = _preprocess(text)
     category = pipeline.predict([cleaned])[0]
