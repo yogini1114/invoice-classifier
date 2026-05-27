@@ -1,8 +1,3 @@
-"""
-train.py - Training script for Invoice Expense Classifier
-Run this before starting the API to generate the saved model.
-"""
-
 import os
 import pickle
 import pandas as pd
@@ -19,7 +14,7 @@ MODEL_PATH = os.path.join(os.path.dirname(__file__), "classifier.pkl")
 
 
 def basic_clean(text: str) -> str:
-    """Lowercase, strip punctuation, remove extra spaces."""
+    
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s]", " ", text)
     text = re.sub(r"\s+", " ", text).strip()
